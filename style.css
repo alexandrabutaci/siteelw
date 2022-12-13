@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+
+
+
+@media (max-width: 992px) {
+
+  }
+@media (max-width: 768px) {
+  
+}
+@media (max-width: 576px) {
+  
+}
+
+.clearfix {
+  padding:80px;
+}
+
+.row {
+  display:flex;
+  flex-wrap:wrap;
+  margin-right:-15px;
+  margin-left:-15px;
+}
+
+hr.solid {
+  border-top: 3px solid #bbb
+}
+
+.card-group {
+  background-color: #efefef;
+}
+
+[class*="col-"] {
+    padding: 1rem;
+}
+
+.jumbotron {
+  background-color: rgb(231, 229, 229);
+  margin:50px;
+}
+
+.strikethrough {
+  text-decoration: line-through;
+}
